@@ -1,0 +1,40 @@
+body{
+    background: url(image/bg.jpg)center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.jumbotron{
+    background-color: transparent;
+    color: white;
+    text-align: center;
+}
+ .jumbotron h1{
+    font-size: 7vw;
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+ .jumbotron p{
+     text-align: right;
+    font-size: 3vw;
+}
+.btn{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    padding: 50px 30px;
+    font-size: 35px;
+    margin-right: 50px;
+    background-color: #d7A04e;
+}
+#header{
+    text-align: center;
+    font-size: 7vw;
+}
+#lap{
+    text-align: right;
+    font-size: 4vw;
+}
+#time{
+    text-align: center;
+    font-size: 10vw;
+}
